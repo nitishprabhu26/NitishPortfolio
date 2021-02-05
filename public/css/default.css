@@ -724,7 +724,10 @@ properly.
 	   width: 460px;
 	   margin: 0 auto;
       padding: 0;
-	}
+   }
+   .row .profile-pic-align{
+      text-align: center;
+   }
    .column, .columns {
 	   width: auto !important;
 	   float: none;

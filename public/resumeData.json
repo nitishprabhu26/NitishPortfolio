@@ -3,38 +3,38 @@
     "name": "Nitish Prabhu Kota",
     "occupation": "Head Instructor @CleverProgrammer",
     "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "image": "Nitish.jpg",
+    "bio": "Software Engineer with 3+ years of professional Full-Stack Web Development experience. Strong technical skills in designing, developing, testing, debugging, and maintaining complex websites. Graduating from The University of Texas at Arlington, Actively looking for Full-Stack Web Developer/Cloud Computing full time opportunities starting from May 2021.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "email": "nitish.prabhu26@gmail.com",
+    "phone": "+1 (682)-283-5267 ",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "409 Summit Ave",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76013"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://nitish-prabhu-kota.netlify.app/",
+    "resumedownload": "Doc1.pdf",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/nitishprabhu26",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/NitishPrabhuKota/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
+        "url": "https://www.instagram.com/nitishprabhu26/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/nitishprabhu26",
         "className": "fa fa-github"
       }
     ]
@@ -43,10 +43,10 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "The University of Texas at Arlington",
+        "degree": "Master of Science in Computer Science",
+        "graduated": "May 2021",
+        "description": "Major in Big Data Management, Databases and Cloud Computing; Artificial Intelligent Systems."
       }
     ],
     "work": [
