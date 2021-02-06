@@ -36,7 +36,7 @@ class Header extends Component {
          <div className="banner-text">
             <h1 className="responsive-headline">Hey There!</h1>
             <h1 className="responsive-headline">I'm {name}.</h1>
-            <h2 style={{color:'#F06000'}}>Graduate Student in Computer Science at The University of Texas at Arlington | Senior Software Engineer.</h2>
+            <h2 style={{color:'#F06000'}}>MS in Computer Science at The University of Texas at Arlington | Senior Software Engineer.</h2>
             <hr/>
             <ul className="social">
                {networks}
