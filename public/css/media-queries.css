@@ -335,6 +335,11 @@
       line-height: 54px;
    }
 
+   .portfolio-item .item-wrap img{
+      min-height: 225px;
+
+   }
+
 
 }
 

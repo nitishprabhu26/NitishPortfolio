@@ -181,6 +181,9 @@ ul#nav li a {
 ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #F06000; }
 
+.text-justification{
+   text-align: justify;
+}
 
 /* ------------------------------------------------------------------ */
 /* c. About Section
@@ -277,11 +280,26 @@ ul#nav li.current a { color: #F06000; }
    margin-right: 5px;
    margin-left: 5px;
 }
+#resume .infor {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 0px;
+   margin-top: 9px;
+}
+#resume .infor span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
-
+.unset-margin-bottom{
+   margin-bottom: unset;
+}
+.hideDisplay{
+   display: none;
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -290,27 +308,31 @@ ul#nav li.current a { color: #F06000; }
 	width: 95%;
 	float: left;
 	padding: 0;
-	text-align: left;
+	text-align: justify;
 }
 .bars .skills {
-  	margin-top: 36px;
+  	/* margin-top: 36px; */
    list-style: none;
 }
-.bars li {
+/* .bars li {
    position: relative;
   	margin-bottom: 60px;
   	background: #ccc;
   	height: 42px;
   	border-radius: 3px;
-}
+} */
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	/* font: 15px 'opensans-bold', sans-serif; */
    color: #313131;
-	text-transform: uppercase;
-   letter-spacing: 2px;
+   /* letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+	top: -36px; */
+}
+
+.bars li strong{
+   font: 15px 'opensans-bold', sans-serif;
+   color: #313131;
 }
 .bar-expand {
    position: absolute;
@@ -493,13 +515,14 @@ ul#nav li.current a { color: #F06000; }
 	transition: opacity 0.3s ease-in-out;
 
    position: absolute;
-   top: 50%;
-   left: 50%;
+   top: 15%;
+   left: 90%;
    margin-left: -15px;
    margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+   min-height: 130px;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {

@@ -19,11 +19,11 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
+            <li>If you are interested in my work or if you like to collaborate or just say hello, feel free to contact me ♥️</li>
            </ul>
 
            <ul className="copyright">
-              <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
+              <li>Copyrights &copy; 2021 - Nitish Prabhu Kota. All rights reserved.</li>
               <li>Design by <a title="Nitish - LinkedIn" href="https://www.linkedin.com/in/NitishPrabhuKota/" target="_blank">Nitish Prabhu Kota</a></li>
            </ul>
 

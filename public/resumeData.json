@@ -18,24 +18,24 @@
     "resumedownload": "Doc1.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/nitishprabhu26",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/NitishPrabhuKota/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/nitishprabhu26/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "https://github.com/nitishprabhu26",
         "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nitishprabhu26",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nitishprabhu26/",
+        "className": "fa fa-instagram"
       }
     ]
   },
@@ -46,59 +46,75 @@
         "school": "The University of Texas at Arlington",
         "degree": "Master of Science in Computer Science",
         "graduated": "May 2021",
-        "description": "Major in Big Data Management, Databases and Cloud Computing; Artificial Intelligent Systems."
+        "gpa": "3.6/4.0",
+        "description": "Big Data Management, Databases and Cloud Computing; Artificial Intelligent Systems.",
+        "courses": "Web Data Management, Artificial Intelligence I, Machine Learning, Advanced Topics in Database Systems, Data Mining, Software Testing, Software Engineering, Python Programming, Computer Networks."
+      },
+      {
+        "school": "NMAM Institute of Technology",
+        "degree": "Bachelor of Engineering in Electronics and Communication",
+        "graduated": "May 2016",
+        "gpa": "7.83/10.0",
+        "courses": "Computer Concepts and 'C' Programming, Programming in C++, Data Structures and Algorithms, Computer Communication Networks, Essentials of Information Technology"
+      
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
+        "company": "INFOSYS LIMITED, Mangaluru, India",
+        "title": "Senior Software Engineer",
+        "title2": "Software Engineer",
+        "years": "May 2017 – July 2019",
+        "years2": "Oct 2016 – May 2017",
         "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
       },
       {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
+        "company": "INFOSYS LIMITED, Mysuru, India",
+        "title": "Software Engineer Intern/Trainee",
+        "years": "May 2016 – Oct 2016",
         "description": "Helping businesses showing their best selves to clients."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Programming Languages: ",
+        "list": "Python, JAVA, SQL, PHP, C, C++."
       },
       {
-        "name": "Python",
-        "level": "95%"
+        "name": "Frameworks: ",
+        "list": "AngularJS, Angular 2/5/9, React JS, Flask, Laravel, Bootstrap 4/5."
       },
       {
-        "name": "Git",
-        "level": "75%"
+        "name": "Web Technologies: ",
+        "list": "JavaScript, HTML/HTML 5, CSS 3, TypeScript, Jasmine, Karma, RESTful Web Services, jQuery, XML, Google API’s, JSON, ML Tools (NumPy, Pandas, Keras, SciPy, Scikit-learn)."
       },
       {
-        "name": "JavaScript",
-        "level": "100%"
+        "name": "Database: ",
+        "list": "MySQL, Google Cloud Datastore, MongoDB, Amazon RDS, Redis."
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Cloud Services: ",
+        "list": "AWS, Microsoft Azure, Google Cloud Platform, IBM Cloud (Bluemix)."
+      },
+      {
+        "name": "Tools/Software: ",
+        "list": "Visual Studio Code, Eclipse IDE, GitHub, Git, Jenkins, VSTS, Jupyter Notebook, PyCharm."
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "Burger’s on Grill ",
+        "category": "Dynamic Responsive Restaurant website: Laravel, PHP, JavaScript, CSS, HTML, Bootstrap 5",
+        "image": "BurgersOnGrill.png",
+        "url": "https://burgersongrill.ml/"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Github",
+        "category": "My Projects on Github",
+        "image": "GitHub_Logo.png",
+        "url": "https://github.com/nitishprabhu26"
       }
     ]
   },
