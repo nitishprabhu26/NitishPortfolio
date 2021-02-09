@@ -111,6 +111,12 @@
         "url": "https://burgersongrill.ml/"
       },
       {
+        "title": "To-DO List App",
+        "category": "A very basic React JS based To-Do List application",
+        "image": "ToDoList.png",
+        "url": "https://todolist-nitish.netlify.app"
+      },
+      {
         "title": "Github",
         "category": "My Projects on Github",
         "image": "GitHub_Logo.png",
