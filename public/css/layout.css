@@ -964,7 +964,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+    color: darkgrey;
    font-size: 14px;
    text-align: center;
    position: relative;
@@ -1012,6 +1012,12 @@ footer .social-links li {
 }
 
 footer .social-links li:first-child { margin-left: 0; }
+
+.designedBy{
+   color: #F06000 !important;
+   font-size: larger;
+   padding-left: 5px;
+}
 
 /* Go To Top Button */
 #go-top {
