@@ -7,7 +7,6 @@ const Contact = ({ data }) => {
    const [email, setEmail] = useState('');
    const [message, setMessage] = useState('');
 
-   console.log(data)
 
     const handleClick = (e) => {
        e.preventDefault();
