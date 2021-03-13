@@ -19,11 +19,11 @@ class Testimonials extends Component {
       <div className="text-container">
          <div className="row">
 
-            <div className="two columns header-col">
+            <div className="one columns header-col">
                <h1><span>Client Testimonials</span></h1>
             </div>
 
-            <div className="ten columns flex-container">
+            <div className="eleven columns flex-container">
                   <ul className="slides">
                       {testimonials}
                   </ul>

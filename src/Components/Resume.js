@@ -8,13 +8,13 @@ class Resume extends Component {
         return <div key={education.school}><h3>{education.school}</h3>
         <p className="info unset-margin-bottom">{education.degree} <span>&bull;</span><em className="date"> {education.graduated }</em></p>
         <p className="unset-margin-bottom"><strong>GPA: </strong>{education.gpa}</p>
-        <p class={(education.description ? 'unset-margin-bottom text-justification' : "hideDisplay unset-margin-bottom text-justification")} ><strong>Majors: </strong>{education.description}</p>
-        <p class={(education.courses ? 'text-justification' : "hideDisplay text-justification")} ><strong>Related Courses: </strong>{education.courses}</p></div>
+        <p className={(education.description ? 'unset-margin-bottom text-justification' : "hideDisplay unset-margin-bottom text-justification")} ><strong>Majors: </strong>{education.description}</p>
+        <p className={(education.courses ? 'text-justification' : "hideDisplay text-justification")} ><strong>Related Courses: </strong>{education.courses}</p></div>
       })
       var work = this.props.data.work.map(function(work){
         return <div key={work.company}><h3>{work.company}</h3>
 
-            <p class={(work.title2 ? 'infor unset-margin-bottom' : "info")}>{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
+            <p className={(work.title2 ? 'infor unset-margin-bottom' : "info")}>{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             { work.title2 ?<p className="info">{work.title2}<span>&bull;</span> <em className="date">{work.years2}</em></p> : null}
             {/* <p>{work.description}</p> */}
         </div>

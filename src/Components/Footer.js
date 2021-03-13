@@ -5,7 +5,7 @@ class Footer extends Component {
 
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url} target="_blank"><i className={network.className}></i></a></li>
+        return <li key={network.name}><a href={network.url} target="_blank" rel="noopener noreferrer"><i className={network.className}></i></a></li>
       })
     }
 
@@ -27,7 +27,7 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>Copyrights &copy; 2021 - Nitish Prabhu Kota. All rights reserved.</li>
-              <li>Design by <a title="Nitish - LinkedIn" href="https://www.linkedin.com/in/NitishPrabhuKota/" target="_blank" className="designedBy"> Nitish Prabhu Kota.</a></li>
+              <li>Design by <a title="Nitish - LinkedIn" href="https://www.linkedin.com/in/NitishPrabhuKota/" target="_blank" rel="noopener noreferrer" className="designedBy"> Nitish Prabhu Kota.</a></li>
            </ul>
 
         </div>
