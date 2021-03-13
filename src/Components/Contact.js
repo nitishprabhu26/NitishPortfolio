@@ -8,10 +8,10 @@ const Contact = ({ data }) => {
    const [message, setMessage] = useState('');
 
 
-    const handleClick = (e) => {
-       e.preventDefault();
-      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
-    }
+   const handleClick = (e) => {
+      e.preventDefault();
+   window.open(`mailto:`+"nitish.prabhu26@gmail.com"+`?subject=${subject}&body=${name} [${email}]: ${message}`);
+   }
     
 
     return (
