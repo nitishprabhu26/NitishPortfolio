@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import Jump from 'react-reveal/Jump';
+import Typewriter from "typewriter-effect";
 
 class Header extends Component {
   render() {
@@ -31,9 +33,21 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">Hey There!</h1>
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h2 style={{color:'#F06000'}}>MS in Computer Science at The University of Texas at Arlington. | Former Senior Software Engineer, Infosys Limited.</h2>
+            {/* <h1 className="responsive-headline">Hey There!</h1> */}
+            <Jump>
+               <h1>Hey There!</h1>
+            </Jump>
+            <h1 className="responsive-headline"><Typewriter onInit={(typewriter) => {
+               typewriter.typeString("I'm Nitish. ")
+                  .pauseFor(200)
+                  .deleteChars(2)
+                  .typeString(" Prabhu Kota.")
+                  .pauseFor(3000)
+                  .start(); }} options={{
+                     loop: true,
+                   }}
+                  /></h1>
+            <h2 style={{color:'#F06000'}}>MS in Computer Science at The University of Texas at Arlington. | Former Senior Software Engineer at Infosys Limited.</h2>
             <hr/>
             <ul className="social">
                {networks}

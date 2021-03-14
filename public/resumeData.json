@@ -116,6 +116,18 @@
         "url": "https://todolist-nitish.netlify.app"
       },
       {
+        "title": "Personal Portfolio Website",
+        "category": "React based portfolio website",
+        "image": "Portfolio.png",
+        "url": "https://nitish-prabhu-kota.netlify.app"
+      },
+      {
+        "title": "BreakingBad API Application",
+        "category": "React based application which fetches data using Breaking Bad API",
+        "image": "BreakingBadAPI.png",
+        "url": "https://breakingbadapi-app.netlify.app"
+      },
+      {
         "title": "Github",
         "category": "My Projects on Github",
         "image": "GitHub_Logo.png",
