@@ -4,7 +4,7 @@
     "occupation": "Head Instructor @CleverProgrammer",
     "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
     "image": "Nitish.jpg",
-    "bio": "Software Engineer with 3+ years of professional Full-Stack Web Development experience. Strong technical skills in designing, developing, testing, debugging, and maintaining complex websites. Graduating from The University of Texas at Arlington, Actively looking for Full-Stack Web Developer/Cloud Computing full time opportunities starting from May 2021.",
+    "bio": "Software Engineer with 3+ years of professional Full-Stack Web Development experience. Strong technical skills in designing, developing, testing, debugging, and maintaining complex websites. Graduated from The University of Texas at Arlington, Actively looking for Full-Stack Web Developer/Cloud Computing full time opportunities starting from May 2021.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "nitish.prabhu26@gmail.com",
     "phone": "+1 (682)-283-5267 ",
@@ -45,9 +45,9 @@
         "school": "The University of Texas at Arlington",
         "degree": "Master of Science in Computer Science",
         "graduated": "May 2021",
-        "gpa": "3.6/4.0",
+        "gpa": "3.64/4.0",
         "description": "Big Data Management, Databases and Cloud Computing; Artificial Intelligent Systems.",
-        "courses": "Web Data Management, Artificial Intelligence I, Machine Learning, Advanced Topics in Database Systems, Data Mining, Software Testing, Software Engineering, Python Programming, Computer Networks."
+        "courses": "Web Data Management, Software Engineering, Python Programming, Software Testing, Advanced Topics in Database Systems, Artificial Intelligence I, Machine Learning, Data Mining, Computer Networks."
       },
       {
         "school": "NMAM Institute of Technology",
