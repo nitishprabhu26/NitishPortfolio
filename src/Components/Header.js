@@ -47,8 +47,8 @@ class Header extends Component {
                      loop: true,
                    }}
                   /></h1>
-            <h2 style={{color:'#F06000'}}>MS in Computer Science at The University of Texas at Arlington.</h2>
             <h2 style={{color:'#F06000'}}>Software Engineer at TCS.</h2>
+            <h2 style={{color:'#F06000'}}>MS in Computer Science at The University of Texas at Arlington.</h2>
             <hr/>
             <ul className="social">
                {networks}
