@@ -15,7 +15,7 @@ class Resume extends Component {
         return <div key={work.company}><h3>{work.company}</h3>
 
             <p className={(work.title2 ? 'infor unset-margin-bottom' : "info")}>{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-            { work.title2 ?<p className="info">{work.title2}<span>&bull;</span> <em className="date">{work.years2}</em></p> : null}
+            {/* { work.title2 ?<p className="info">{work.title2}<span>&bull;</span> <em className="date">{work.years2}</em></p> : null} */}
             {/* <p>{work.description}</p> */}
         </div>
       })

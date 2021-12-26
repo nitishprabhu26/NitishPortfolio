@@ -1,15 +1,15 @@
 {
   "main": {
     "name": "Nitish Prabhu Kota",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
+    "occupation": "",
+    "description": "Software Engineer at TCS.",
     "image": "Nitish.jpg",
-    "bio": "Software Engineer with 3+ years of professional Full-Stack Web Development experience. Strong technical skills in designing, developing, testing, debugging, and maintaining complex websites. Graduated from The University of Texas at Arlington, actively looking for Software Development Engineer or Full-Stack Web Developer full time opportunities starting from May 2021.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "bio": "Software Engineer with around 3 years of professional Full-Stack Web Development experience. Strong technical skills in designing, developing, testing, debugging, and maintaining complex websites. Graduated from The University of Texas at Arlington.",
+    "contactmessage": "",
     "email": "nitish.prabhu26@gmail.com",
     "phone": "+1 (682)-283-5267 ",
     "address": {
-      "street": "409 Summit Ave",
+      "street": "4** Summit Ave",
       "city": "Arlington",
       "state": "TX",
       "zip": "76013"
@@ -60,32 +60,38 @@
     ],
     "work": [
       {
-        "company": "INFOSYS LIMITED, Mangaluru, India",
-        "title": "Senior Software Engineer",
-        "title2": "Software Engineer",
-        "years": "May 2017 – July 2019",
-        "years2": "Oct 2016 – May 2017",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+        "company": "Tata Consultancy Services, Texas, US",
+        "title": "Software Engineer",
+        "years": "Oct 2021 – Present"
       },
       {
-        "company": "INFOSYS LIMITED, Mysuru, India",
-        "title": "Software Engineer Intern/Trainee",
-        "years": "May 2016 – Oct 2016",
-        "description": "Helping businesses showing their best selves to clients."
+        "company": "IpserLab LLC, California, US",
+        "title": "Software Engineer Intern",
+        "years": "Sept 2021 – Oct 2021"
+      },
+      {
+        "company": "UT Arlington, Texas, US",
+        "title": "Graduate Research Volunteer",
+        "years": "Jul 2021 – Sept 2021"
+      },
+      {
+        "company": "INFOSYS LIMITED, Mangaluru, India",
+        "title": "Senior Systems Engineer",
+        "years": "May 2016 – Jul 2019"
       }
     ],
     "skills": [
       {
         "name": "Programming Languages: ",
-        "list": "Python, JAVA, SQL, PHP, C, C++."
+        "list": "Python, JAVA, SQL, PHP, C."
       },
       {
         "name": "Frameworks: ",
-        "list": "AngularJS, Angular 2/5/9, React JS, Flask, Laravel, Bootstrap 4/5."
+        "list": "Angular 2-11, AngularJS, Express.js, React JS, Redux, Flask, Laravel, Bootstrap 4/5."
       },
       {
         "name": "Web Technologies: ",
-        "list": "JavaScript, HTML/HTML 5, CSS 3, TypeScript, Jasmine, Karma, RESTful Web Services, jQuery, XML, Google API’s, JSON, ML Tools (NumPy, Pandas, Keras, SciPy, Scikit-learn)."
+        "list": "JavaScript, Node.js, HTML/HTML 5, CSS 3, TypeScript, Jasmine, Karma, RESTful Web Services, jQuery, Google API’s, JSON."
       },
       {
         "name": "Database: ",
@@ -97,7 +103,7 @@
       },
       {
         "name": "Tools/Software: ",
-        "list": "Visual Studio Code, Eclipse IDE, GitHub, Git, Jenkins, VSTS, Jupyter Notebook, PyCharm."
+        "list": "GitHub, Git, Jira, Jenkins, Postman, VS Code, Eclipse IDE, PyCharm."
       }
     ]
   },
